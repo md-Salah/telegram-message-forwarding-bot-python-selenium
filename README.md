@@ -7,4 +7,4 @@ start > logs in telegram web > input source channel name > input destination cha
 
 ## Purchase from
 - [Fiverr](https://www.fiverr.com/salah_3652/create-browser-scraper-and-automation-python-bot-in-selenium)
-- telegram/whatsapp **01521257646**
+- telegram/whatsapp **+8801521257646**
