@@ -4,3 +4,7 @@
 
 ## Algorithm
 start > logs in telegram web > input source channel name > input destination channel name > marks all new messages in source channel > forward those messages to destination channel > 30 sec later checks again for new message > if any new message then forward those messages > loop continues...
+
+## Purchase from
+- [Fiverr](https://www.fiverr.com/salah_3652/create-browser-scraper-and-automation-python-bot-in-selenium)
+- telegram/whatsapp ** 01521257646 **
